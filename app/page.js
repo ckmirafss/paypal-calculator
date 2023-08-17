@@ -84,7 +84,7 @@ export default function Home() {
         </div>
         <p className="text-md mb-2">Unadjusted Bi-Weekly Salary: <strong>${biWeeklySalary}</strong></p>
         <p className="text-md mb-2">Adjusted Bi-Weekly Pay: <strong>${adjustedPay}</strong></p>
-        <p className="text-md mb-2">PayPal Fee (5%): <strong>${paypalFee}</strong></p>
+        <p className="text-md mb-2">PayPal Fee (4.5%): <strong>${paypalFee}</strong></p>
         <p className="text-md mb-2">Salary per Day (40hrs/week): <strong>${dailySalary}</strong></p>
         <p className="text-md mb-2">Days in Month: <strong>{workdaysInMonth}</strong></p>
         <p className="text-md mb-2">Total: <strong>${total}</strong></p>
